@@ -7,7 +7,6 @@
 - Orders by Hour of Day  
 - Department-Level Volume  
 
-**Screenshot:** `dashboards/instacart_sales_overview.png`
 
 ---
 
@@ -16,7 +15,7 @@
 - Retention Funnel (1st → 2nd → 3–5 → 6+ Purchases)  
 - Reorder Probability by Segment  
 
-**Screenshot:** `dashboards/instacart_customer_behavior.png`
+
 
 ---
 
@@ -25,7 +24,6 @@
 - Top 10 Reordered Products  
 - Market Basket Heatmap (Departments × Aisles)  
 
-**Screenshot:** `dashboards/instacart_product_performance.png`
 
 ---
 
