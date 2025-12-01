@@ -69,7 +69,12 @@ Sample cleaned files are included in `data_sample/`.
 2. Open `tableau_workbook/instacart_dashboard.twbx` in Tableau Desktop.  
 3. Update data connections to point to your local CSVs.  
 4. Explore the dashboards and interact with filters.  
-5. Replace sample CSVs with full dataset if needed.  
+5. Replace sample CSVs with full dataset if needed.
+
+## Tableau Workbook Download
+Download the full packaged Tableau workbook (.twbx) from the Releases section:  
+https://github.com/nikhil625/Instacart-tableau-Customer-Product-Analytics/releases
+
 
 ---
 
