@@ -1,8 +1,3 @@
-
----
-
-## 📊 Dashboards Included  
-
 ### **1. Sales Overview Dashboard**
 - Total Customers  
 - Total Orders  
@@ -41,18 +36,18 @@
 - A large portion of customers churn after their first order.  
 - Retention significantly improves after the 2nd order.
 
-### 🍌 **Product Insights**
+###  **Product Insights**
 - Bananas are the most commonly ordered and reordered product.  
 - Organic produce dominates top product lists.  
 
-### 🧺 **Market Basket Insights**
+###  **Market Basket Insights**
 - Strong co-occurrence between Produce ↔ Dairy Eggs.  
 - Snacks often appear with Beverages.  
 - Frozen categories frequently pair with Pantry items.
 
 ---
 
-## 🔧 Skills Demonstrated  
+##  Skills Demonstrated  
 - Tableau Data Modeling (joins between orders, products, departments, aisles)  
 - LOD Expressions  
   - `{ FIXED [user_id] : COUNTD([order_id]) }`  
@@ -64,7 +59,7 @@
 
 ---
 
-## 📁 Dataset Notice  
+##  Dataset Notice  
 The full Instacart dataset is not included in this repository due to size limits.  
 A link to the Kaggle dataset is provided.  
 Sample cleaned files are included in `data_sample/`.
@@ -83,4 +78,4 @@ Sample cleaned files are included in `data_sample/`.
 ##  Contact  
 For questions or collaboration:  
 **Nikhil Mehalawat**  
-📧 nikhilmehalawat@gmail.com  
+ nikhilmehalawat@gmail.com  
